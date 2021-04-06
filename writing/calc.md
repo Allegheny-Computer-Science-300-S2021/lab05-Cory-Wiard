@@ -25,10 +25,10 @@ a)
 
 b)
 - Match or Mismatch:  A != T is not a match
-- Left entry calculation:  0 - 1 = -1
+- Left entry calculation:  1 - 1 = 0
 - Above entry calculation:  -2 - 1 = -3
 - Diagonal entry calculation: -1 + 0 = -1
-- Max score: -1 from the Diagonal/left
+- Max score: 0 from the left
 
 
 c)
@@ -42,7 +42,7 @@ c)
 d)
 - Match or Mismatch:  T = T is a match
 - Left entry calculation:  0 - 1 = -1
-- Above entry calculation: -1 - 1 = -2
+- Above entry calculation: 0 - 1 = -1
 - Diagonal entry calculation: 1 + 1 = 2
 - Max score: 2 from the Diagonal
 
